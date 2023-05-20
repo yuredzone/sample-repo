@@ -1,3 +1,3 @@
 # sample-repo
 git-trainning　　
-conにて編集
+conリモートにて編集
