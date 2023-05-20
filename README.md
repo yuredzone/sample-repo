@@ -1,4 +1,3 @@
 # sample-repo
-git-trainning
-
-a
+git-trainning　　
+newブランチにて作成　
