@@ -1,3 +1,3 @@
 # sample-repo
 git-trainning　　
-newブランチにて作成　
+no-fastforward常にて変更
