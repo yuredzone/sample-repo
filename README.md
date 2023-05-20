@@ -1,3 +1,3 @@
 # sample-repo
 git-trainning　　
-conではなく、mainにて変更
+conにて編集
