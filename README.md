@@ -1,3 +1,3 @@
 # sample-repo
 git-trainning　　
-no-fastforward常にて変更
+conではなく、mainにて変更
